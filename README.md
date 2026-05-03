@@ -41,17 +41,26 @@ This project is a real-time AI-based vehicle accident detection system that uses
 ---
 📊 Model Performance
 CNN Model Accuracy: ~99% on validation dataset, ensuring high reliability in accident detection.
-Real-time video inference optimized for low-latency processing, enabling smooth detection in live streams.
-Robust performance achieved using deep learning with OpenCV preprocessing and TensorFlow/Keras framework.
-Designed to handle dynamic real-world road conditions including varying lighting, motion blur, and traffic density.
-🚀 Impact
 
+Real-time video inference optimized for low-latency processing, enabling smooth detection in live streams.
+
+Robust performance achieved using deep learning with OpenCV preprocessing and TensorFlow/Keras framework.
+
+Designed to handle dynamic real-world road conditions including varying lighting, motion blur, and traffic density.
+
+
+
+🚀 Impact
 This system is designed to significantly improve road safety by enabling instant accident detection and faster emergency response.
 
 Reduces response time by triggering real-time alerts immediately after accident detection.
+
 Enhances coordination between monitoring systems and emergency services through automated notifications.
+
 Supports smart city and intelligent transportation system (ITS) initiatives using AI-driven monitoring.
+
 Provides scalable architecture that can be extended for nationwide traffic surveillance systems.
+
 Contributes to saving lives by enabling faster medical and emergency intervention.
 
 ---
